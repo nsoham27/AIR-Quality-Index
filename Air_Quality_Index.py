@@ -6,7 +6,7 @@ import csv
 from tkinter import ttk
 
 
-api_key = "ebbbdc38671df2fd123b07496a7dd98c"
+api_key = "OpenWeatherMap api is used to fetch the air quality index: https://openweathermap.org/api"
 root =Tk()
 root.title('Air Quality Application')
 root.iconbitmap("logo1.ico")
